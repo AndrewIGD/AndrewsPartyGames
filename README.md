@@ -13,13 +13,13 @@ The game supports:
 
 -And many other features...
 
-#Controls
+Controls
 If you are playing on the keyboard, movement is done by using WASD or arrow keys. If you are playing with a controller, movement is done by using the joystick. The first and second action should be set in the Controls tab under Settings, but the defaults are: G and H for the first player on the keyboard, < and > for the second, A and X for xbox controllers and buttons 0 and 2 for gamepads.
 
-#Install instructions
+Install instructions
 Download the prefered .zip file and extract it in your desired location. Extraction is usually done by right clicking the file and then selecting "Extract Here..." or "Extract files".
 
-#Credits
+Credits
 Game made by AndrewIGD.
 
 Tools used:
