@@ -1,4 +1,4 @@
-# AndrewsPartyGames
+# Andrew's Party Games
 Andrew's Party Games is a game that contains 10 mini-games with different variations that can be played by anybody, requiring 2 buttons and the controls for moving around.  The game supports 2 players on the keyboard and another 16 players on the controllers(joysticks, gamepads, etc...).  The mini-games usually take a few seconds up to 3 minutes.
 
 The game supports:
