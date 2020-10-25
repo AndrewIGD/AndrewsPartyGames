@@ -3,15 +3,17 @@ Andrew's Party Games is a game that contains 10 mini-games with different variat
 
 The game supports:
 
--Computer Controlled Players
+- Computer Controlled Players
 
--Control Customizability
+- Control Customizability
 
--Mini-game Mutation
+- Mini-game Mutation
 
--Player Customizability
+- Player Customizability
 
--And many other features...
+- And many other features...
+
+For more information, visit [the wiki](https://wiki.deprimus.men/AndrewsPartyGames).
 
 # Controls
 If you are playing on the keyboard, movement is done by using WASD or arrow keys. If you are playing with a controller, movement is done by using the joystick. The first and second action should be set in the Controls tab under Settings, but the defaults are: G and H for the first player on the keyboard, < and > for the second, A and X for xbox controllers and buttons 0 and 2 for gamepads.
